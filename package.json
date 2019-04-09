@@ -1,0 +1,13 @@
+{
+  "name": "@vtb/vtb_test_multiplication",
+  "dependencies": {
+    "jest": "22.4.2",
+    "vtb_test_sum": "develop"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testURL": "http://localhost/"
+  }
+}
